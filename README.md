@@ -30,11 +30,6 @@ O aplicativo é um sistema básico de gerenciamento de usuários implementado em
    - O arquivo `"usuarios.json"` é criado automaticamente se não existir no mesmo diretório do código.
 
 
-```
-
-
-
-## CREDITOS:
-- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+``
 
 
